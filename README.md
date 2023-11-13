@@ -1,5 +1,7 @@
-# React + Vite
 
+https://tatiasalukvadze.github.io/React_EcommerceProductPage/
+# React + Vite
+written in tailwind
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
